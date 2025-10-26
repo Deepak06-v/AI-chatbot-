@@ -16,9 +16,6 @@ The chatbot supports **English, Hindi, Telugu, Tamil, and Kannada**, and feature
 
 ---
 
-## Demo Screenshot
-
-*(Add a screenshot here of the Tkinter GUI with language buttons and response display.)*
 
 ---
 
