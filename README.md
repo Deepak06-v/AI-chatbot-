@@ -33,3 +33,8 @@ Install Python dependencies:
 
 ```bash
 pip install requests speechrecognition gtts pygame
+
+
+##TO run the alex multingual chatbot
+cd to stt.py and run the stt.py file
+
